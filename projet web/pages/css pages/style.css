@@ -1,0 +1,242 @@
+header {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-top: 60px;
+
+    text-align: center;
+}
+
+.nome {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 25px;
+
+}
+
+.nome div {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.email {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.email div {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+nav a {
+    margin: 0px 50px 50px 65px;
+    display: auto;
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", serif;
+    font-weight: bolder;
+    font-size: 17px;
+
+
+}
+
+nav a:hover {
+    color: whitesmoke;
+}
+
+.nsite {
+    font-family: "Roboto", serif;
+    font-weight: 600;
+    font-size: 50px;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+    margin-bottom: 70px;
+    margin-top: -46px;
+    
+}
+
+body {
+    height: 100%;
+    width: 99%;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to right, #766dff 0%, #88f3ff 100%);
+}
+
+section {
+    margin-top: 180px;
+    margin-bottom: 300px;
+    margin-left: 260px;
+    margin-right: 300px;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: white;
+    size: 1000px;
+    height: 900px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 0px 20px 80px 0px rgba(15, 15, 15, 0.3);
+
+}
+
+.contact {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    background-color: white;
+    size: 1000px;
+    height: 900px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 0px 20px 80px 0px rgba(15, 15, 15, 0.3);
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+.titre {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.titrec {
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 60px;
+
+
+}
+
+.comp {
+    text-align: center;
+    margin-right: 60px;
+    padding-top: 60px;
+}
+.quiz{
+    padding-bottom: 10000px;
+}
+.bttq{
+    background-color: #766dff;
+    height: 40px;
+    color: white;
+    width: 170px;
+    font-weight: bold;
+    border: white;
+    border-radius: 7px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 17px;
+}
+.bttq:hover{
+    background-color: #5c51fb;
+}
+.btt {
+    background-color: #766dff;
+    height: 30px;
+    color: white;
+    width: 150px;
+    font-weight: bold;
+    border: white;
+    border-radius: 7px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 17px;
+}
+
+.btt:hover {
+    background-color: #5c51fb;
+}
+
+#nom {
+    padding-left: 50px;
+}
+.z{
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.message {
+    margin-right: 30px;
+    border-radius: 7px;
+    border-color: black;
+    
+}
+
+.q{
+    text-align: center;
+}
+.ques{
+    margin-left: 100px;
+}
+.nom {
+    padding: 4px;
+    border-radius: 7px;
+    border-color: black;
+}
+
+.pass {
+    margin-left: 25px;
+}
+
+.photo {
+    padding: 10px;
+}
+
+.photo img {
+    border-radius: 5px;
+}
+
+.exp {
+    margin: 15px;
+
+}
+
+.experience {
+    padding-top: 40px;
+}
+
+.dip {
+    text-align: center;
+    padding: 28px 20px 0px 20px;
+}
+
+.c {
+    text-align: center;
+    padding-bottom: 7px;
+}
+
+.tit {
+    padding-top: 30px;
+
+    padding-bottom: 1px;
+}
+
+.titpass {
+    padding-top: 4px;
+    padding-bottom: 1px;
+}
+
+.qua {
+    background-color: aliceblue;
+    margin-right: 65px;
+    text-align: center;
+    margin-left: 18px;
+}
+
+.qual {
+    background-color: aliceblue;
+    margin-right: 65px;
+    text-align: center;
+    margin-left: 30px;
+}
